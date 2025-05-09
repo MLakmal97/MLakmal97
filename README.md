@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Lakmal
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/madhushanka-lakmal-301150322/)&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/your-username)
 
 I'm a passionate **IT professional** with over 4 years of experience in **Windows Server Administration**, **Linux**, **Cybersecurity**, and **Python development**. I'm currently deepening my skills in **DevOps** with tools like **Docker**, and I love sharing knowledge through teaching and hands-on projects.
 
 - 👀 I’m interested in Windows Server Administration, Linux, Cybersecurity, DevOps, Python development, and IT education.
 - 🌱 I’m currently learning Windows Server, Docker, Linux, and Python, aiming to master DevOps and Cybersecurity skills.
 - 💞️ I want to collaborate on IT training content, system automation projects, open-source tools, and beginner-friendly cybersecurity resources.
-- 📫 How to reach me: madhushankalakmal33@gmail.com | www.linkedin.com/in/madhushanka-lakmal-301150322 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I teach students online and enjoy breaking down complex tech topics into simple lessons.
 
 ---
