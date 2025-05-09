@@ -75,9 +75,9 @@ I also write quick guides and learning notes on:
 
 ## 📊 GitHub Stats
 
-![Lakmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Lakmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLakmal97&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLakmal97&layout=compact&theme=tokyonight)
 
 ---
 
