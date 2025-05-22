@@ -2,12 +2,16 @@
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/madhushanka-lakmal-301150322/)&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/your-username)
 
-I'm a passionate **IT professional** with over 4 years of experience in **Windows Server Administration**, **Linux**, **Cybersecurity**, and **Python development**. I'm currently deepening my skills in **DevOps** with tools like **Docker**, and I love sharing knowledge through teaching and hands-on projects.
+I'm an IT professional with 4 years of experience as an Oracle Database Administrator. I am now expanding my expertise into Windows Server administration, Linux systems, and Cybersecurity. My current focus is mastering DevOps tools and Python automation to build secure, efficient, and scalable IT solutions.
+
+I enjoy working on hands-on projects — from configuring Group Policies and managing Active Directory to creating automation scripts and exploring containerized environments with Docker. I'm passionate about continuous learning and applying my skills to solve real-world problems.
+
+This portfolio is a reflection of my transition from database management into system administration and DevOps, showcasing the projects, skills, and certifications I’m building along the way.
 
 - 👀 I’m interested in Windows Server Administration, Linux, Cybersecurity, DevOps, Python development, and IT education.
 - 🌱 I’m currently learning Windows Server, Docker, Linux, and Python, aiming to master DevOps and Cybersecurity skills.
 - 💞️ I want to collaborate on IT training content, system automation projects, open-source tools, and beginner-friendly cybersecurity resources.
-- ⚡ Fun fact: I teach students online and enjoy breaking down complex tech topics into simple lessons.
+- ⚡ Fun fact: I teach students and enjoy breaking down complex tech topics into simple lessons.
 
 ---
 
