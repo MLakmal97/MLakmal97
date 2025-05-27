@@ -84,8 +84,11 @@ This portfolio is a reflection of my transition from database management into sy
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 ![Lakmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLakmal97&show_icons=true&theme=tokyonight)
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlakmal97&layout=compact&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLakmal97&layout=compact&theme=tokyonight)
 
