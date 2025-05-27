@@ -42,8 +42,7 @@ This portfolio is a reflection of my transition from database management into sy
 | Project | Description | Tech |
 |--------|-------------|------|
 | [100 GPO Project](https://github.com/your-username/100-gpo-project) | 100 real-world Group Policy configurations with step-by-step instructions and screenshots | Windows Server, Group Policy |
-| [Active Directory Setup](https://github.com/MLakmal97/active-directory-setup.git) | Complete Active Directory domain setup with OUs, users, groups, GPOs, and logon scripts. |
-| Windows Server, AD DS, Users, Groups, GPOs |
+| [Active Directory Setup](https://github.com/MLakmal97/active-directory-setup.git) | Complete Active Directory domain setup with OUs, users, groups, GPOs, and logon scripts. | Windows Server, AD DS, Users, Groups, GPOs |
 
 <!--
 | Project | Description | Tech |
