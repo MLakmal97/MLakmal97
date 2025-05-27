@@ -10,7 +10,7 @@ This portfolio is a reflection of my transition from database management into sy
 
 - 👀 I’m interested in Windows Server Administration, Linux, Cybersecurity, DevOps, Python development, and IT education.
 - 🌱 I’m currently learning Windows Server, Docker, Linux, and Python, aiming to master DevOps and Cybersecurity skills.
-- 💞️ I want to collaborate on IT training content, system automation projects, open-source tools, and beginner-friendly cybersecurity resources.
+- 💞️ I'm interested in collaborating on IT training content, system automation projects, open-source tools, and creating beginner-friendly cybersecurity resources.
 - ⚡ Fun fact: I teach students and enjoy breaking down complex tech topics into simple lessons.
 
 ---
@@ -96,5 +96,5 @@ This portfolio is a reflection of my transition from database management into sy
 
 <!---
 MLakmal97/MLakmal97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
