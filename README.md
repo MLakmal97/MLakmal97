@@ -42,28 +42,33 @@ This portfolio is a reflection of my transition from database management into sy
 | Project | Description | Tech |
 |--------|-------------|------|
 | [100 GPO Project](https://github.com/your-username/100-gpo-project) | 100 real-world Group Policy configurations with step-by-step instructions and screenshots | Windows Server, Group Policy |
+
+<!--
+| Project | Description | Tech |
+|--------|-------------|------|
+| [100 GPO Project](https://github.com/your-username/100-gpo-project) | 100 real-world Group Policy configurations with step-by-step instructions and screenshots | Windows Server, Group Policy |
 | [Docker Labs](https://github.com/your-username/docker-lab) | Hands-on beginner Docker lab with containers and images | Docker, Linux |
 | [Cybersecurity Notes](https://github.com/your-username/cybersecurity-basics) | Security practices, tools, and labs for beginners | Cybersecurity, Networking |
 | [Python Automation Scripts](https://github.com/your-username/python-automation) | Daily automation scripts using Python | Python, Automation |
-
+-->
 ---
 
 ## 🏆 Certifications
-
+<!--
 - ✅ [Python for Beginners – Udemy](./certifications/python-beginners.pdf)
 - ✅ [Windows Server Administration – XYZ Institute](./certifications/windows-server.pdf)
 - ✅ [Linux Essentials – Cisco NDG](./certifications/linux-essentials.pdf)
-- ✅ [Cybersecurity Fundamentals – IBM SkillsBuild](./certifications/cybersecurity.pdf)
+- ✅ [Cybersecurity Fundamentals – IBM SkillsBuild](./certifications/cybersecurity.pdf) -->
 
 ---
 
 ## ✏️ Blog / Learning Notes
 
-I also write quick guides and learning notes on:
+<!-- I also write quick guides and learning notes on:
 - Group Policy
 - Server Administration
 - Python tricks
-- DevOps tools
+- DevOps tools -->
 
 📍 Coming soon: [lakmal-technotes.github.io](#)
 
