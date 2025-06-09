@@ -71,7 +71,7 @@ This portfolio is a reflection of my transition from database management into sy
 - Python tricks
 - DevOps tools -->
 
-📍 Coming soon: [lakmal-technotes.github.io](#)
+📍 Coming soon: [lakmal-technotes.github.io](https://github.com/MLakmal97/MLakmal.github.io.git)
 
 ---
 
