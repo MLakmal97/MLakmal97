@@ -2,8 +2,7 @@
 
 ## System Administrator | Infrastructure Engineer
 
-Windows Server • Linux • Networking • VMware
-Oracle • PowerShell • Cloud • Cybersecurity
+Windows Server • Linux • Networking • Oracle • PowerShell • Cloud • Cybersecurity
 
 I'm an IT Infrastructure professional based in **Sri Lanka**, currently working in the **Banking Sector**. My primary interests are enterprise infrastructure, networking, Linux systems, virtualization, cloud technologies, and cybersecurity.
 
@@ -28,7 +27,19 @@ I enjoy designing, deploying, troubleshooting, and documenting real-world infras
 
 ### Operating Systems
 - Windows Server
-- Linux (RHEL, Ubuntu)
+- Linux (RHEL, Ubuntu, Kali Linux)
+
+### Cybersecurity
+
+- Windows Hardening
+- Linux Hardening
+- Wazuh SIEM
+- Security Monitoring
+- Log Analysis
+- Vulnerability Management
+- Access Control
+- Vulnerability Assessment 
+- Security Best Practices
 
 ### Networking
 - Cisco IOS
@@ -52,7 +63,6 @@ I enjoy designing, deploying, troubleshooting, and documenting real-world infras
 
 ### Cloud
 - Microsoft Azure
-- AWS
 
 ### Security
 - Windows Hardening
@@ -76,25 +86,15 @@ I enjoy designing, deploying, troubleshooting, and documenting real-world infras
 
 ## 📖 Currently Learning
 
-- Cisco CCNA (200-301)
+- Cybersecurity
 - Enterprise Networking
 - Infrastructure Automation
 - Azure Administration
-- AWS Fundamentals
 - Infrastructure Security
 
 ---
 
-## 🎯 Future Certifications
-
-- Cisco CCNA
-- RHCSA
-- AZ-104
-- AWS Solutions Architect Associate
-- Security+
-- ITIL 4
-- CISA
-- CISM
+## 🎯 Certifications
 
 ---
 
