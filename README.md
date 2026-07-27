@@ -1,102 +1,121 @@
-# 👋 Hi there, I'm Lakmal
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/madhushanka-lakmal-301150322/)&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/your-username)
+# Hi there 👋 I'm Madhushanka Lakmal
 
-I'm an IT professional with 4 years of experience as an Oracle Database Administrator. I am now expanding my expertise into Windows Server administration, Linux systems, and Cybersecurity. My current focus is mastering DevOps tools and Python automation to build secure, efficient, and scalable IT solutions.
+## System Administrator | Infrastructure Engineer
 
-I enjoy working on hands-on projects — from configuring Group Policies and managing Active Directory to creating automation scripts and exploring containerized environments with Docker. I'm passionate about continuous learning and applying my skills to solve real-world problems.
+I'm an IT Infrastructure professional based in **Sri Lanka**, currently working in the **Banking Sector**. My primary interests are enterprise infrastructure, networking, Linux systems, virtualization, cloud technologies, and cybersecurity.
 
-This portfolio is a reflection of my transition from database management into system administration and DevOps, showcasing the projects, skills, and certifications I’m building along the way.
-
-- 👀 I’m interested in Windows Server Administration, Linux, Cybersecurity, DevOps, Python development, and IT education.
-- 🌱 I’m currently learning Windows Server, Docker, Linux, and Python, aiming to master DevOps and Cybersecurity skills.
-- 💞️ I'm interested in collaborating on IT training content, system automation projects, open-source tools, and creating beginner-friendly cybersecurity resources.
-- ⚡ Fun fact: I teach students and enjoy breaking down complex tech topics into simple lessons.
+I enjoy designing, deploying, troubleshooting, and documenting real-world infrastructure solutions while continuously expanding my technical knowledge through practical labs and certifications.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🚀 About Me
 
-- 🖥️ Windows Server, Active Directory, Group Policy
-- 🐧 Linux (Ubuntu, CentOS)
-- 🐍 Python (Automation, Scripting)
-- 🐳 Docker & Containers
-- 🔐 Cybersecurity Basics
-- ☁️ Azure (Fundamentals)
-- 🧠 Git & GitHub, VS Code, PowerShell
-
----
-
-## 📚 Currently Learning
-
-- Docker & Containerization  
-- DevOps Practices & CI/CD  
-- Advanced Windows Server Configuration  
-- Linux Shell Scripting  
-- Ethical Hacking Fundamentals  
+- 💼 Working in Enterprise IT Infrastructure
+- 🌍 Based in Sri Lanka
+- 📚 Currently studying for Cisco CCNA (200-301)
+- 🖥 Building a 100-Day CCNA Lab Portfolio
+- 🔐 Interested in Cybersecurity & Infrastructure Hardening
+- ☁ Learning Cloud Technologies (Azure & AWS)
+- 🐧 Linux Enthusiast
+- 📖 Learning through hands-on labs rather than theory alone
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Technologies & Tools
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [100 GPO Project](https://github.com/your-username/100-gpo-project) | 100 real-world Group Policy configurations with step-by-step instructions and screenshots | Windows Server, Group Policy |
-| [Active Directory Setup](https://github.com/MLakmal97/active-directory-setup.git) | Complete Active Directory domain setup with OUs, users, groups, GPOs, and logon scripts. | Windows Server, AD DS, Users, Groups, GPOs |
+### Operating Systems
+- Windows Server
+- Linux (RHEL, Ubuntu)
 
-<!--
-| Project | Description | Tech |
-|--------|-------------|------|
-| [100 GPO Project](https://github.com/your-username/100-gpo-project) | 100 real-world Group Policy configurations with step-by-step instructions and screenshots | Windows Server, Group Policy |
-| [Docker Labs](https://github.com/your-username/docker-lab) | Hands-on beginner Docker lab with containers and images | Docker, Linux |
-| [Cybersecurity Notes](https://github.com/your-username/cybersecurity-basics) | Security practices, tools, and labs for beginners | Cybersecurity, Networking |
-| [Python Automation Scripts](https://github.com/your-username/python-automation) | Daily automation scripts using Python | Python, Automation |
--->
----
+### Networking
+- Cisco IOS
+- Routing & Switching
+- VLANs
+- Static Routing
+- Subnetting
+- DHCP
+- DNS
 
-## 🏆 Certifications
-<!--
-- ✅ [Python for Beginners – Udemy](./certifications/python-beginners.pdf)
-- ✅ [Windows Server Administration – XYZ Institute](./certifications/windows-server.pdf)
-- ✅ [Linux Essentials – Cisco NDG](./certifications/linux-essentials.pdf)
-- ✅ [Cybersecurity Fundamentals – IBM SkillsBuild](./certifications/cybersecurity.pdf) -->
+### Virtualization
+- VMware ESXi
+- VirtualBox
 
----
+### Databases
+- Oracle Database
 
-## ✏️ Blog / Learning Notes
+### Scripting
+- PowerShell
+- Python
 
-<!-- I also write quick guides and learning notes on:
-- Group Policy
-- Server Administration
-- Python tricks
-- DevOps tools -->
+### Cloud
+- Microsoft Azure
+- AWS
 
-📍 Coming soon: [lakmal-technotes.github.io](https://mlakmal97.github.io/)
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: madhushankalakmal33@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/madhushanka-lakmal-301150322 
-- 💻 GitHub: https://github.com/MLakmal97
+### Security
+- Windows Hardening
+- Linux Hardening
+- Wazuh
+- SIEM
+- Firewall Fundamentals
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Current Projects
 
-![Lakmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlakmal97&show_icons=true&theme=tokyonight&cache_seconds=60)
-
-<!-- ![Lakmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLakmal97&show_icons=true&theme=tokyonight) -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLakmal97&layout=compact&theme=tokyonight)
+- 📘 CCNA 100-Day Lab Challenge
+- 🌐 Enterprise Networking Labs
+- 🐧 Linux Administration Labs
+- 🔐 Infrastructure Hardening Documentation
+- ☁ Cloud Learning Labs
+- ⚡ PowerShell Automation Scripts
 
 ---
 
-> 🎯 *“Stay curious. Keep building. Teach others.”*
+## 📖 Currently Learning
 
+- Cisco CCNA (200-301)
+- Enterprise Networking
+- Infrastructure Automation
+- Azure Administration
+- AWS Fundamentals
+- Infrastructure Security
 
-<!---
-MLakmal97/MLakmal97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to view your changes.
---->
+---
+
+## 🎯 Future Certifications
+
+- Cisco CCNA
+- RHCSA
+- AZ-104
+- AWS Solutions Architect Associate
+- Security+
+- ITIL 4
+- CISA
+- CISM
+
+---
+
+## 📈 GitHub Goals
+
+This GitHub serves as my technical portfolio where I document:
+
+- Hands-on Labs
+- Infrastructure Projects
+- Automation Scripts
+- Technical Documentation
+- Networking Exercises
+- Learning Journey
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email:
+**madhushankalakmal33@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/madhushanka-lakmal-301150322
+
+---
+
+> "Build. Document. Learn. Improve. Repeat."
