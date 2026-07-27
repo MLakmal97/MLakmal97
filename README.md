@@ -2,6 +2,9 @@
 
 ## System Administrator | Infrastructure Engineer
 
+Windows Server • Linux • Networking • VMware
+Oracle • PowerShell • Cloud • Cybersecurity
+
 I'm an IT Infrastructure professional based in **Sri Lanka**, currently working in the **Banking Sector**. My primary interests are enterprise infrastructure, networking, Linux systems, virtualization, cloud technologies, and cybersecurity.
 
 I enjoy designing, deploying, troubleshooting, and documenting real-world infrastructure solutions while continuously expanding my technical knowledge through practical labs and certifications.
