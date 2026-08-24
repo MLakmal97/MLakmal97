@@ -504,8 +504,7 @@ Cybersecurity Engineer
 
 📧 Email: **madhushankalakmal33@gmail.com**
 
-💼 LinkedIn:  
-[linkedin.com/in/madhushanka-lakmal-301150322](https://www.linkedin.com/in/madhushanka-lakmal-301150322)
+💼 LinkedIn: [linkedin.com/in/madhushanka-lakmal-301150322](https://www.linkedin.com/in/madhushanka-lakmal-301150322)
 
 ---
 
